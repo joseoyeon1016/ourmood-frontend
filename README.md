@@ -13,3 +13,8 @@ AI 기반 가상 피팅 시스템 (CatVTON)
 
 ## 설치 방법
 [추가 예정]
+
+
+## 프로토타입
+<img width="1381" height="849" alt="image" src="https://github.com/user-attachments/assets/15a28cb5-52d1-43eb-8213-6776ff05af5e" />
+<img width="679" height="781" alt="image" src="https://github.com/user-attachments/assets/4a27eb14-0927-45de-ba63-daf7a5a79e16" />
