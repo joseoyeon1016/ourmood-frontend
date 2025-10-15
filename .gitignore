@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -39,3 +40,53 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+# 환경 변수
+.env
+.env.local
+.env*.local
+
+# 의존성
+node_modules/
+venv/
+catvton/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# 모델 및 캐시
+*.pth
+*.ckpt
+*.safetensors
+.cache/
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 생성된 파일들
+generated_mask.png
+virtual_tryout_result.jpg
+input_person.jpg
+input_cloth.jpg
+>>>>>>> 6bfc5dffdcde8b15fea64ba0b95c0029037e296b
