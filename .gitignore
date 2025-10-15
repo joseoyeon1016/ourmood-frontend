@@ -1,0 +1,48 @@
+# 환경 변수
+.env
+.env.local
+.env*.local
+
+# 의존성
+node_modules/
+venv/
+catvton/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# 모델 및 캐시
+*.pth
+*.ckpt
+*.safetensors
+.cache/
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 생성된 파일들
+generated_mask.png
+virtual_tryout_result.jpg
+input_person.jpg
+input_cloth.jpg
